@@ -1,4 +1,0 @@
-globals.css
-images.ts
-layout.tsx
-page.tsx
